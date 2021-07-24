@@ -1,0 +1,19 @@
+[2.057s] Invoking command in '/home/davood/ros2_ws/src/pkg1': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/davood/ros2_ws/build/pkg1/build install --prefix /home/davood/ros2_ws/install/pkg1 --record /home/davood/ros2_ws/build/pkg1/install.log --single-version-externally-managed
+[2.523s] running egg_info
+[2.524s] writing ../../build/pkg1/pkg1.egg-info/PKG-INFO
+[2.525s] writing dependency_links to ../../build/pkg1/pkg1.egg-info/dependency_links.txt
+[2.525s] writing entry points to ../../build/pkg1/pkg1.egg-info/entry_points.txt
+[2.526s] writing requirements to ../../build/pkg1/pkg1.egg-info/requires.txt
+[2.526s] writing top-level names to ../../build/pkg1/pkg1.egg-info/top_level.txt
+[2.595s] reading manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[2.597s] writing manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[2.598s] running build
+[2.598s] running build_py
+[2.598s] running install
+[2.600s] running install_lib
+[2.603s] running install_data
+[2.605s] running install_egg_info
+[2.609s] removing '/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1-0.0.0-py3.8.egg-info' (and everything under it)
+[2.610s] Copying ../../build/pkg1/pkg1.egg-info to /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1-0.0.0-py3.8.egg-info
+[2.612s] running install_scripts
+[2.656s] writing list of installed files to '/home/davood/ros2_ws/build/pkg1/install.log'

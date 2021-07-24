@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "bin/ros1_bridge_generate_factories", line 11, in <module>
+    from ros1_bridge import generate_cpp
+  File "/home/davood/ros2_ws/src/ros1_bridge/ros1_bridge/__init__.py", line 27, in <module>
+    from rosidl_cmake import expand_template
+  File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_cmake/__init__.py", line 22, in <module>
+    import em
+ModuleNotFoundError: No module named 'em'
+make[2]: *** [CMakeFiles/ros1_bridge.dir/build.make:68: generated/get_factory.cpp] Error 1
+make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/ros1_bridge.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

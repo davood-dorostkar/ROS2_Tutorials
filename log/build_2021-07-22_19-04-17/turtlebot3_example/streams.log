@@ -1,0 +1,23 @@
+[2.300s] Invoking command in '/home/davood/ros2_ws/src/turtlebot3/turtlebot3_example': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/davood/ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_example build --build-base /home/davood/ros2_ws/build/turtlebot3_example/build install --prefix /home/davood/ros2_ws/install/turtlebot3_example --record /home/davood/ros2_ws/build/turtlebot3_example/install.log --single-version-externally-managed
+[2.908s] running egg_info
+[2.910s] writing ../../../build/turtlebot3_example/turtlebot3_example.egg-info/PKG-INFO
+[2.910s] writing dependency_links to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/dependency_links.txt
+[2.910s] writing entry points to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/entry_points.txt
+[2.911s] writing requirements to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/requires.txt
+[2.911s] writing top-level names to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/top_level.txt
+[3.016s] reading manifest file '../../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[3.019s] writing manifest file '../../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[3.020s] running build
+[3.020s] running build_py
+[3.023s] running install
+[3.025s] running install_lib
+[3.029s] running install_data
+[3.029s] running install_egg_info
+[3.032s] removing '/home/davood/ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages/turtlebot3_example-2.1.2-py3.8.egg-info' (and everything under it)
+[3.033s] Copying ../../../build/turtlebot3_example/turtlebot3_example.egg-info to /home/davood/ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages/turtlebot3_example-2.1.2-py3.8.egg-info
+[3.035s] running install_scripts
+[3.066s] Installing turtlebot3_obstacle_detection script to /home/davood/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.066s] Installing turtlebot3_patrol_client script to /home/davood/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.066s] Installing turtlebot3_patrol_server script to /home/davood/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.067s] Installing turtlebot3_position_control script to /home/davood/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.068s] writing list of installed files to '/home/davood/ros2_ws/build/turtlebot3_example/install.log'

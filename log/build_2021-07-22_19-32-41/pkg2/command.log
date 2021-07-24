@@ -1,0 +1,4 @@
+Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2
+Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2

@@ -1,0 +1,20 @@
+[0.962s] Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+[1.037s] Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+[1.095s] Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2
+[1.107s] -- Install configuration: ""
+[1.108s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/package_run_dependencies/pkg2
+[1.108s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/parent_prefix_path/pkg2
+[1.108s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.sh
+[1.109s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.dsv
+[1.109s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.sh
+[1.109s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.dsv
+[1.109s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.bash
+[1.110s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.sh
+[1.110s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.zsh
+[1.111s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.dsv
+[1.112s] -- Installing: /home/davood/ros2_ws/install/pkg2/share/pkg2/package.dsv
+[1.113s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/packages/pkg2
+[1.114s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config.cmake
+[1.114s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config-version.cmake
+[1.114s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/package.xml
+[1.115s] Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2

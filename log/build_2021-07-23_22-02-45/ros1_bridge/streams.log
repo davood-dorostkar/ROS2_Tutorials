@@ -1,0 +1,166 @@
+[0.025s] Invoking command in '/home/davood/ros2_ws/build/ros1_bridge': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/davood/ros2_ws/src/ros1_bridge -DBUILD_TESTING=FALSE -DCMAKE_INSTALL_PREFIX=/home/davood/ros2_ws/install/ros1_bridge
+[0.311s] -- The C compiler identification is GNU 9.3.0
+[0.586s] -- The CXX compiler identification is GNU 9.3.0
+[0.602s] -- Check for working C compiler: /usr/bin/cc
+[0.739s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.743s] -- Detecting C compiler ABI info
+[0.882s] -- Detecting C compiler ABI info - done
+[0.906s] -- Detecting C compile features
+[0.907s] -- Detecting C compile features - done
+[0.912s] -- Check for working CXX compiler: /usr/bin/c++
+[1.063s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.066s] -- Detecting CXX compiler ABI info
+[1.219s] -- Detecting CXX compiler ABI info - done
+[1.244s] -- Detecting CXX compile features
+[1.244s] -- Detecting CXX compile features - done
+[1.250s] -- Found rmw: 1.0.3 (/opt/ros/foxy/share/rmw/cmake)
+[1.342s] -- Found PythonInterp: /home/davood/anaconda3/bin/python3 (found suitable version "3.8.5", minimum required is "3") 
+[1.342s] -- Using PYTHON_EXECUTABLE: /home/davood/anaconda3/bin/python3
+[1.993s] -- Found rclcpp: 2.3.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.059s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.075s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.283s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.332s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.468s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.576s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.580s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.583s] -- Looking for pthread.h
+[2.734s] -- Looking for pthread.h - found
+[2.735s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.873s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.873s] -- Looking for pthread_create in pthreads
+[3.017s] -- Looking for pthread_create in pthreads - not found
+[3.018s] -- Looking for pthread_create in pthread
+[3.174s] -- Looking for pthread_create in pthread - found
+[3.177s] -- Found Threads: TRUE  
+[3.480s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[3.489s] -- Checking for module 'roscpp'
+[3.535s] --   Found roscpp, version 1.15.11
+[3.624s] -- Checking for module 'std_msgs'
+[3.664s] --   Found std_msgs, version 0.5.13
+[4.574s] -- Checking for module 'actionlib'
+[4.626s] --   Found actionlib, version 1.13.2
+[4.741s] -- Checking for module 'actionlib_msgs'
+[4.791s] --   Found actionlib_msgs, version 1.13.1
+[4.912s] -- Checking for module 'actionlib_tutorials'
+[4.959s] --   Found actionlib_tutorials, version 0.2.0
+[5.073s] -- Checking for module 'bond'
+[5.119s] --   Found bond, version 1.8.6
+[5.235s] -- Checking for module 'control_msgs'
+[5.284s] --   Found control_msgs, version 1.5.2
+[5.393s] -- Checking for module 'controller_manager_msgs'
+[5.446s] --   Found controller_manager_msgs, version 0.19.5
+[5.534s] -- Checking for module 'diagnostic_msgs'
+[5.583s] --   Found diagnostic_msgs, version 1.13.1
+[5.683s] -- Checking for module 'dynamic_reconfigure'
+[5.725s] --   Found dynamic_reconfigure, version 1.7.1
+[5.818s] -- Checking for module 'gazebo_msgs'
+[5.855s] --   Found gazebo_msgs, version 2.9.2
+[5.941s] -- Checking for module 'geometry_msgs'
+[5.982s] --   Found geometry_msgs, version 1.13.1
+[6.097s] -- Checking for module 'map_msgs'
+[6.136s] --   Found map_msgs, version 1.14.1
+[6.274s] -- Checking for module 'nav_msgs'
+[6.313s] --   Found nav_msgs, version 1.13.1
+[6.412s] -- Checking for module 'pcl_msgs'
+[6.446s] --   Found pcl_msgs, version 0.3.0
+[6.541s] -- Checking for module 'rosgraph_msgs'
+[6.598s] --   Found rosgraph_msgs, version 1.11.3
+[6.717s] -- Checking for module 'rospy_tutorials'
+[6.755s] --   Found rospy_tutorials, version 0.10.2
+[6.847s] -- Checking for module 'sensor_msgs'
+[6.883s] --   Found sensor_msgs, version 1.13.1
+[7.003s] -- Checking for module 'shape_msgs'
+[7.040s] --   Found shape_msgs, version 1.13.1
+[7.133s] -- Checking for module 'smach_msgs'
+[7.172s] --   Found smach_msgs, version 2.5.0
+[7.298s] -- Checking for module 'stereo_msgs'
+[7.333s] --   Found stereo_msgs, version 1.13.1
+[7.445s] -- Checking for module 'tf'
+[7.490s] --   Found tf, version 1.13.2
+[7.617s] -- Checking for module 'tf2_msgs'
+[7.659s] --   Found tf2_msgs, version 0.7.5
+[7.770s] -- Checking for module 'theora_image_transport'
+[7.818s] --   Found theora_image_transport, version 1.14.0
+[7.931s] -- Checking for module 'trajectory_msgs'
+[7.965s] --   Found trajectory_msgs, version 1.13.1
+[8.073s] -- Checking for module 'turtle_actionlib'
+[8.108s] --   Found turtle_actionlib, version 0.2.0
+[8.197s] -- Checking for module 'turtlesim'
+[8.231s] --   Found turtlesim, version 0.10.2
+[8.321s] -- Checking for module 'visualization_msgs'
+[8.357s] --   Found visualization_msgs, version 1.13.1
+[8.439s] -- Checking for module 'control_toolbox'
+[8.477s] --   Found control_toolbox, version 1.18.2
+[8.590s] -- Checking for module 'laser_assembler'
+[8.631s] --   Found laser_assembler, version 1.7.8
+[8.814s] -- Checking for module 'polled_camera'
+[8.856s] --   Found polled_camera, version 1.12.0
+[8.973s] -- Checking for module 'roscpp_tutorials'
+[9.010s] --   Found roscpp_tutorials, version 0.10.2
+[9.098s] -- Checking for module 'rviz'
+[9.144s] --   Found rviz, version 1.14.8
+[9.303s] -- Checking for module 'std_srvs'
+[9.346s] --   Found std_srvs, version 1.11.3
+[9.426s] -- Checking for module 'topic_tools'
+[9.466s] --   Found topic_tools, version 1.15.11
+[9.853s] -- Found action_msgs: 1.0.0 (/opt/ros/foxy/share/action_msgs/cmake)
+[9.955s] -- Found action_tutorials_interfaces: 0.9.3 (/opt/ros/foxy/share/action_tutorials_interfaces/cmake)
+[10.037s] -- Found actionlib_msgs: 2.0.4 (/opt/ros/foxy/share/actionlib_msgs/cmake)
+[10.038s] -- Found builtin_interfaces: 1.0.0 (/opt/ros/foxy/share/builtin_interfaces/cmake)
+[10.106s] -- Found composition_interfaces: 1.0.0 (/opt/ros/foxy/share/composition_interfaces/cmake)
+[10.173s] -- Found diagnostic_msgs: 2.0.4 (/opt/ros/foxy/share/diagnostic_msgs/cmake)
+[10.280s] -- Found example_interfaces: 0.9.1 (/opt/ros/foxy/share/example_interfaces/cmake)
+[10.348s] -- Found geometry_msgs: 2.0.4 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[10.350s] -- Found libstatistics_collector: 1.0.1 (/opt/ros/foxy/share/libstatistics_collector/cmake)
+[10.374s] -- Found lifecycle_msgs: 1.0.0 (/opt/ros/foxy/share/lifecycle_msgs/cmake)
+[10.395s] -- Found logging_demo: 0.9.3 (/opt/ros/foxy/share/logging_demo/cmake)
+[10.989s] -- Found map_msgs: 2.0.2 (/opt/ros/foxy/share/map_msgs/cmake)
+[10.990s] -- Found nav_msgs: 2.0.4 (/opt/ros/foxy/share/nav_msgs/cmake)
+[11.194s] -- Found pcl_msgs: 1.0.0 (/opt/ros/foxy/share/pcl_msgs/cmake)
+[11.227s] -- Found pendulum_msgs: 0.9.3 (/opt/ros/foxy/share/pendulum_msgs/cmake)
+[11.228s] -- Found rcl_interfaces: 1.0.0 (/opt/ros/foxy/share/rcl_interfaces/cmake)
+[11.257s] -- Found rmw_dds_common: 1.0.3 (/opt/ros/foxy/share/rmw_dds_common/cmake)
+[11.258s] -- Found rosgraph_msgs: 1.0.0 (/opt/ros/foxy/share/rosgraph_msgs/cmake)
+[11.258s] -- Found sensor_msgs: 2.0.4 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[11.374s] -- Found shape_msgs: 2.0.4 (/opt/ros/foxy/share/shape_msgs/cmake)
+[11.375s] -- Found statistics_msgs: 1.0.0 (/opt/ros/foxy/share/statistics_msgs/cmake)
+[11.375s] -- Found std_msgs: 2.0.4 (/opt/ros/foxy/share/std_msgs/cmake)
+[11.406s] -- Found std_srvs: 2.0.4 (/opt/ros/foxy/share/std_srvs/cmake)
+[11.610s] -- Found stereo_msgs: 2.0.4 (/opt/ros/foxy/share/stereo_msgs/cmake)
+[11.848s] -- Found tf2_msgs: 0.13.10 (/opt/ros/foxy/share/tf2_msgs/cmake)
+[11.975s] -- Found trajectory_msgs: 2.0.4 (/opt/ros/foxy/share/trajectory_msgs/cmake)
+[12.071s] -- Found turtlesim: 1.2.5 (/opt/ros/foxy/share/turtlesim/cmake)
+[12.072s] -- Found unique_identifier_msgs: 2.1.3 (/opt/ros/foxy/share/unique_identifier_msgs/cmake)
+[12.200s] -- Found visualization_msgs: 2.0.4 (/opt/ros/foxy/share/visualization_msgs/cmake)
+[12.458s] -- Configuring done
+[12.857s] -- Generating done
+[12.864s] -- Build files have been written to: /home/davood/ros2_ws/build/ros1_bridge
+[12.881s] Invoked command in '/home/davood/ros2_ws/build/ros1_bridge' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/davood/ros2_ws/src/ros1_bridge -DBUILD_TESTING=FALSE -DCMAKE_INSTALL_PREFIX=/home/davood/ros2_ws/install/ros1_bridge
+[12.892s] Invoking command in '/home/davood/ros2_ws/build/ros1_bridge': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/ros1_bridge -- -j8 -l8
+[12.997s] [35m[1mScanning dependencies of target simple_bridge_1_to_2[0m
+[12.998s] [35m[1mScanning dependencies of target simple_bridge_2_to_1[0m
+[12.998s] [35m[1mScanning dependencies of target simple_bridge[0m
+[13.007s] [  0%] [34m[1mGenerating factories for interface types[0m
+[13.112s] [  0%] [32mBuilding CXX object CMakeFiles/simple_bridge_2_to_1.dir/src/simple_bridge_2_to_1.cpp.o[0m
+[13.114s] [  1%] [32mBuilding CXX object CMakeFiles/simple_bridge_1_to_2.dir/src/simple_bridge_1_to_2.cpp.o[0m
+[13.119s] [  1%] [32mBuilding CXX object CMakeFiles/simple_bridge.dir/src/simple_bridge.cpp.o[0m
+[13.152s] Traceback (most recent call last):
+[13.152s]   File "bin/ros1_bridge_generate_factories", line 11, in <module>
+[13.152s]     from ros1_bridge import generate_cpp
+[13.152s]   File "/home/davood/ros2_ws/src/ros1_bridge/ros1_bridge/__init__.py", line 27, in <module>
+[13.152s]     from rosidl_cmake import expand_template
+[13.153s]   File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_cmake/__init__.py", line 22, in <module>
+[13.153s]     import em
+[13.153s] ModuleNotFoundError: No module named 'em'
+[13.170s] make[2]: *** [CMakeFiles/ros1_bridge.dir/build.make:68: generated/get_factory.cpp] Error 1
+[13.170s] make[1]: *** [CMakeFiles/Makefile2:224: CMakeFiles/ros1_bridge.dir/all] Error 2
+[13.170s] make[1]: *** Waiting for unfinished jobs....
+[20.727s] [  1%] [32m[1mLinking CXX executable simple_bridge_1_to_2[0m
+[21.168s] [  1%] Built target simple_bridge_1_to_2
+[23.442s] [  2%] [32m[1mLinking CXX executable simple_bridge_2_to_1[0m
+[23.922s] [  2%] Built target simple_bridge_2_to_1
+[24.483s] [  2%] [32m[1mLinking CXX executable simple_bridge[0m
+[24.990s] [  2%] Built target simple_bridge
+[24.993s] make: *** [Makefile:141: all] Error 2
+[25.000s] Invoked command in '/home/davood/ros2_ws/build/ros1_bridge' returned '2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/pkg2:/home/davood/ros2_ws/install/turtlebot3_cartographer:/home/davood/ros2_ws/install/pkg1:/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/ros1_bridge -- -j8 -l8

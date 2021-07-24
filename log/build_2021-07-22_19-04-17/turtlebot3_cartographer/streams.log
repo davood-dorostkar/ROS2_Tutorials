@@ -1,0 +1,9 @@
+[0.112s] Invoking command in '/home/davood/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/davood/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/davood/ros2_ws/install/turtlebot3_cartographer
+[2.245s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.246s] -- Using PYTHON_EXECUTABLE: /home/davood/anaconda3/bin/python3
+[2.246s] -- Configuring done
+[2.247s] -- Generating done
+[2.248s] -- Build files have been written to: /home/davood/ros2_ws/build/turtlebot3_cartographer
+[2.284s] Invoked command in '/home/davood/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/davood/ros2_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/davood/ros2_ws/install/turtlebot3_cartographer
+[2.290s] Invoking command in '/home/davood/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/turtlebot3_cartographer -- -j8 -l8
+[2.399s] Invoked command in '/home/davood/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/turtlebot3_cartographer -- -j8 -l8

@@ -1,0 +1,15 @@
+/home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/package_run_dependencies/pkg2
+/home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/parent_prefix_path/pkg2
+/home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.sh
+/home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.dsv
+/home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.sh
+/home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.dsv
+/home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.bash
+/home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.sh
+/home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.zsh
+/home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.dsv
+/home/davood/ros2_ws/install/pkg2/share/pkg2/package.dsv
+/home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/packages/pkg2
+/home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config.cmake
+/home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config-version.cmake
+/home/davood/ros2_ws/install/pkg2/share/pkg2/package.xml

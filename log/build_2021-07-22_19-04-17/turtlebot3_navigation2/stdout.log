@@ -1,0 +1,5 @@
+-- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /home/davood/anaconda3/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/davood/ros2_ws/build/turtlebot3_navigation2

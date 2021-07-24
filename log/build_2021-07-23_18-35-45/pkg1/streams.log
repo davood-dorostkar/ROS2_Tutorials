@@ -1,0 +1,20 @@
+[0.998s] Invoking command in '/home/davood/ros2_ws/src/pkg1': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/davood/ros2_ws/build/pkg1/build install --prefix /home/davood/ros2_ws/install/pkg1 --record /home/davood/ros2_ws/build/pkg1/install.log --single-version-externally-managed
+[1.504s] running egg_info
+[1.506s] writing ../../build/pkg1/pkg1.egg-info/PKG-INFO
+[1.506s] writing dependency_links to ../../build/pkg1/pkg1.egg-info/dependency_links.txt
+[1.506s] writing entry points to ../../build/pkg1/pkg1.egg-info/entry_points.txt
+[1.507s] writing requirements to ../../build/pkg1/pkg1.egg-info/requires.txt
+[1.507s] writing top-level names to ../../build/pkg1/pkg1.egg-info/top_level.txt
+[1.587s] reading manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[1.589s] writing manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[1.589s] running build
+[1.590s] running build_py
+[1.590s] running install
+[1.591s] running install_lib
+[1.595s] running install_data
+[1.596s] running install_egg_info
+[1.598s] removing '/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1-0.0.0-py3.8.egg-info' (and everything under it)
+[1.599s] Copying ../../build/pkg1/pkg1.egg-info to /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1-0.0.0-py3.8.egg-info
+[1.600s] running install_scripts
+[1.628s] writing list of installed files to '/home/davood/ros2_ws/build/pkg1/install.log'
+[1.660s] Invoked command in '/home/davood/ros2_ws/src/pkg1' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/davood/ros2_ws/build/pkg1/build install --prefix /home/davood/ros2_ws/install/pkg1 --record /home/davood/ros2_ws/build/pkg1/install.log --single-version-externally-managed

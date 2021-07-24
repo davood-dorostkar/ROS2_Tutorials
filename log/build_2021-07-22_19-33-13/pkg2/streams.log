@@ -1,0 +1,20 @@
+[0.961s] Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+[1.028s] Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/davood/ros2_ws/build/pkg2 -- -j8 -l8
+[1.075s] Invoking command in '/home/davood/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2
+[1.087s] -- Install configuration: ""
+[1.087s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/package_run_dependencies/pkg2
+[1.088s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/parent_prefix_path/pkg2
+[1.088s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.sh
+[1.088s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.dsv
+[1.088s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.sh
+[1.089s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/environment/path.dsv
+[1.089s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.bash
+[1.089s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.sh
+[1.089s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.zsh
+[1.090s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/local_setup.dsv
+[1.091s] -- Installing: /home/davood/ros2_ws/install/pkg2/share/pkg2/package.dsv
+[1.092s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/ament_index/resource_index/packages/pkg2
+[1.093s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config.cmake
+[1.093s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config-version.cmake
+[1.094s] -- Up-to-date: /home/davood/ros2_ws/install/pkg2/share/pkg2/package.xml
+[1.094s] Invoked command in '/home/davood/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=/home/davood/ros2_ws/install/my_package:/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/davood/ros2_ws/build/pkg2

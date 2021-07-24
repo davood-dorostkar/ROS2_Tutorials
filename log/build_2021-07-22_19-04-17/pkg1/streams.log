@@ -1,0 +1,32 @@
+[2.268s] Invoking command in '/home/davood/ros2_ws/src/pkg1': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/davood/ros2_ws/build/pkg1/build install --prefix /home/davood/ros2_ws/install/pkg1 --record /home/davood/ros2_ws/build/pkg1/install.log --single-version-externally-managed
+[2.936s] running egg_info
+[2.941s] creating ../../build/pkg1/pkg1.egg-info
+[2.941s] writing ../../build/pkg1/pkg1.egg-info/PKG-INFO
+[2.941s] writing dependency_links to ../../build/pkg1/pkg1.egg-info/dependency_links.txt
+[2.942s] writing entry points to ../../build/pkg1/pkg1.egg-info/entry_points.txt
+[2.942s] writing requirements to ../../build/pkg1/pkg1.egg-info/requires.txt
+[2.942s] writing top-level names to ../../build/pkg1/pkg1.egg-info/top_level.txt
+[2.943s] writing manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[3.036s] reading manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[3.038s] writing manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[3.038s] running build
+[3.038s] running build_py
+[3.039s] creating /home/davood/ros2_ws/build/pkg1/build
+[3.039s] creating /home/davood/ros2_ws/build/pkg1/build/lib
+[3.039s] creating /home/davood/ros2_ws/build/pkg1/build/lib/pkg1
+[3.040s] copying pkg1/__init__.py -> /home/davood/ros2_ws/build/pkg1/build/lib/pkg1
+[3.040s] running install
+[3.042s] running install_lib
+[3.045s] creating /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1
+[3.046s] copying /home/davood/ros2_ws/build/pkg1/build/lib/pkg1/__init__.py -> /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1
+[3.047s] byte-compiling /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1/__init__.py to __init__.cpython-38.pyc
+[3.048s] running install_data
+[3.049s] creating /home/davood/ros2_ws/install/pkg1/share/ament_index
+[3.049s] creating /home/davood/ros2_ws/install/pkg1/share/ament_index/resource_index
+[3.050s] creating /home/davood/ros2_ws/install/pkg1/share/ament_index/resource_index/packages
+[3.050s] copying resource/pkg1 -> /home/davood/ros2_ws/install/pkg1/share/ament_index/resource_index/packages
+[3.051s] copying package.xml -> /home/davood/ros2_ws/install/pkg1/share/pkg1
+[3.052s] running install_egg_info
+[3.053s] Copying ../../build/pkg1/pkg1.egg-info to /home/davood/ros2_ws/install/pkg1/lib/python3.8/site-packages/pkg1-0.0.0-py3.8.egg-info
+[3.054s] running install_scripts
+[3.093s] writing list of installed files to '/home/davood/ros2_ws/build/pkg1/install.log'
